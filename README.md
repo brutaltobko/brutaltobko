@@ -1,7 +1,7 @@
 <a href="https://tobko.dev"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=62122A&height=180&section=header&text=BrutalTobko&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /></a>
 
 <p align="center">
-  <a href="https://bxscripts.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=2500&color=62122A&center=true&vCenter=true&width=500&lines=Manager+%40+BX+Scripts" /></a>
+  <a href="https://bxscripts.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=2500&color=62122A&center=true&vCenter=true&width=500&lines=Manager+%40+BX+Scripts;Manager+%40+BX+Scripts" /></a>
 </p>
 
 <p align="center">

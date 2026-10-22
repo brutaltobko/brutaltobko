@@ -20,7 +20,7 @@
 ```cpp
     > focus   : not failing school
 > discord : brutal_tobko  
-> bio     : guns.lol/tobko
+> bio     : nuwex.cc/tobko
 ```
 
 </div>

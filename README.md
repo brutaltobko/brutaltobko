@@ -1,23 +1,23 @@
 <a href="https://tobko.dev"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=62122A&height=180&section=header&text=BrutalTobko&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /></a>
 
 <p align="center">
-  <a href="https://bxscripts.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=2500&color=62122A&center=true&vCenter=true&width=500&lines=Manager+%40+BX+Scripts;Manager+%40+BX+Scripts" /></a>
+  <a href="https://bxscripts.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=2500&color=62122A&center=true&vCenter=true&width=500&lines=Manager+%40+BX+Scripts;Owner+%40+Nuwex.cc" /></a>
 </p>
 
 <p align="center">
-  <a href="https://guns.lol/tobko"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=6000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord:+brutal_tobko;guns.lol/tobko" /></a>
+  <a href="https://nuwex.cc/tobko"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=6000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=500&lines=discord:+brutal_tobko;nuwex.cc/tobko" /></a>
 </p>
 
 <p align="center">
-  <a href="https://guns.lol/tobko"><img src="https://img.shields.io/badge/Discord-brutal__tobko-62122A?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://guns.lol/tobko"><img src="https://img.shields.io/badge/guns.lol-tobko-62122A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0id2hpdGUiPgogIDxyZWN0IHg9IjEiIHk9IjYiIHdpZHRoPSI5IiBoZWlnaHQ9IjIiLz4KICA8cmVjdCB4PSI5IiB5PSI0IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIi8%2BCiAgPHJlY3QgeD0iOSIgeT0iOCIgd2lkdGg9IjIiIGhlaWdodD0iNCIvPgogIDxyZWN0IHg9IjUiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjIiLz4KPC9zdmc%2BCg%3D%3D&logoColor=white" height="34" /></a>
+  <a href="https://nuwex.cc/tobko"><img src="https://img.shields.io/badge/Discord-brutal__tobko-62122A?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://nuwex.cc/tobko"><img src="https://img.shields.io/badge/NUWEX.CC-TOBKO-62122A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTggNTYgMTMgOGwxOSAyNEw1MiA3bDQgNDktMjAtOS0xNi0yMC0yIDI1eiIvPjwvc3ZnPg%3D%3D&logoColor=white" height="34" /></a>
 </p>
 
 <p align="center">──────────</p>
 
 <div align="center">
 
-```cpp
+```cpp id="8rlhlz"
     > focus   : not failing school
 > discord : brutal_tobko  
 > bio     : nuwex.cc/tobko

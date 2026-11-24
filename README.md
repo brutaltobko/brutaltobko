@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://guns.lol/tobko"><img src="https://img.shields.io/badge/Discord-brutal__tobko-62122A?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://guns.lol/tobko"><img src="https://img.shields.io/badge/Discord-algjr-62122A?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://guns.lol/tobko"><img src="https://img.shields.io/badge/GUNS.LOL-TOBKO-62122A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgMTRoNTR2MTZIMzVsLTMgNWgtOWE2IDYgMCAwIDEtNi02di0xSDN6Ii8%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTM1IDMwaDE5bC03IDI3SDI5eiIvPjwvc3ZnPgo%3D&logoColor=white" height="34" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ```cpp
 > focus   : seriozitka    
-> discord : brutal_tobko  
+> discord : algjr         
 > bio     : guns.lol/tobko
 ```
 
